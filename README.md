@@ -169,40 +169,6 @@ An end-to-end machine learning application for predicting online shopper purchas
 
 ---
 
-# 💡 My Development Journey
-
-```text
-Programming
-     │
-     ├── C++
-     │
-     └── Python
-           │
-           ▼
-       Problem Solving
-           │
-           ▼
-          SQL
-           │
-           ▼
-      Backend Development
-           │
-           ├── FastAPI
-           └── Flask
-           │
-           ▼
-       AI / Machine Learning
-           │
-           ├── PyTorch
-           └── OpenCV
-           │
-           ▼
-      Data Engineering
-           │
-           └── 🚀 Growing Every Day
-```
-
----
 
 # 🤝 Let's Connect
 
